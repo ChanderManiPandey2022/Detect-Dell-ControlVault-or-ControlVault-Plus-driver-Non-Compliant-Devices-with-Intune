@@ -1,0 +1,4 @@
+Script Link
+
+
+https://github.com/ChanderManiPandey2022/Detect-Dell-ControlVault-or-ControlVault-Plus-driver-Non-Compliant-Devices-with-Intune/releases/download/v1.0.0/Detect.Dell.ControlVault.or.ControlVault.Plus.driver.Non-Compliant.Devices.with.Intune.ps1
